@@ -1,1 +1,2 @@
-# C-22-Physics-Engine
+# collisionAlgorithm
+Algorithm to detect collision between two objects
